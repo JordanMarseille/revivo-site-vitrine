@@ -1,0 +1,14 @@
+{
+  "name": "revivo-site-vitrine",
+  "version": "1.0.0",
+  "description": "Site vitrine de la plateforme Revivo - Phase 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
